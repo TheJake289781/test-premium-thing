@@ -44,7 +44,7 @@ namespace Test_Prem
                     Console.Write("2. premium badge(kinda bad ig)(write badge)" + "\n");
                     Console.Write("3. Calculator(write calculator)" + "\n");
                     Console.Write("4. Beta Things(yeh)(write beta things)" + "\n");
-                    Console.Write("5. Fake Viru(write FV)");
+                    Console.Write("5. Fake Virus(write FV)");
                     Logs.Log("What Do You Want: "); string add2 = Console.ReadLine();
                     if (add2 == "badge")
                     {
