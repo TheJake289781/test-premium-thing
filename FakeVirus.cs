@@ -82,7 +82,7 @@ namespace test_premium_thing
             VirusL.Log("101010101010100100011110101010101001010101010101010101010010101101010101010101010101001010101110", Console.ForegroundColor = ConsoleColor.DarkGreen);
             VirusL.Log("101010101010100100011110101010101001010101010101010101010010101101010101010101010101001010101110", Console.ForegroundColor = ConsoleColor.DarkGreen);
 
-            test();
+            test(); //loops
 
         }
 
