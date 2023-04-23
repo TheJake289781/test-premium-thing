@@ -20,7 +20,7 @@ namespace test_premium_thing
             Console.Write(sign);
             sign = Convert.ToString(Console.ReadLine());
 
-            Console.Write("enter a number");
+            Console.Write("enter a number: ");
             int num2 = Convert.ToInt32(Console.ReadLine());
 
             if (sign == "+")
