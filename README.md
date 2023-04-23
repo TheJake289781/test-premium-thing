@@ -8,5 +8,6 @@ LogsStuff(for P logger),
 Program(Main),
 calculator(pretty much the same calculator as the rep that i made),
 notebook(for P and No P).
+no then will i update this, well prob not but maybe tho
 
 `         GoodBye         `
